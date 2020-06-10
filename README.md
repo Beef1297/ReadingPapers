@@ -5,7 +5,7 @@
 ## Reference
 
 - [矢谷流論文の読み方](https://iis-lab.org/misc/paperreading/)
-- [落合先生] (https://www.slideshare.net/Ochyai/1-ftma15/65)
+- [落合先生](https://www.slideshare.net/Ochyai/1-ftma15/65)
 
 ## Format
 
