@@ -1,5 +1,6 @@
 # KinestheticSensationPapers
 運動感覚系の論文読み
+運動感覚？という論文もありますが，ご愛嬌
 
 ## Reference
 
