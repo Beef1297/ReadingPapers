@@ -1,6 +1,6 @@
-# KinestheticSensationPapers
-運動感覚系の論文読み <br>
-運動感覚？という論文もありますが，ご愛嬌
+# 論文読みリポジトリ
+Haptics (知覚系，デバイス系など) <br>
+Kinesthetic sensation/Proprioception 多めかもしれませｎ
 
 ## Reference
 
